@@ -5,4 +5,5 @@
 	{ "keys": ["alt+r"],
 	  "command": "repl_transfer_current",
 	  "args": {"scope": "file"} },
+	{ "keys": ["alt+s"], "command": "toggle_side_bar" },
 ]

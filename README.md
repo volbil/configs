@@ -11,5 +11,10 @@ SublimeText
 * Boxy Theme
 * Emmet
 * SublimeREPL
+* Color Highlighter
 
-![скріншот](http://i.imgur.com/650h4qS.png)
+Фіолетова тема
+![Скріншот фіолетової теми](http://i.imgur.com/WlowfJP.png)
+
+Темна тема
+![Скріншот темної теми](http://i.imgur.com/650h4qS.png)
