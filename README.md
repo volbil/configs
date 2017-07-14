@@ -12,6 +12,7 @@ SublimeText
 * Emmet
 * SublimeREPL
 * Color Highlighter
+* BracketHighlighter
 
 Фіолетова тема
 ![Скріншот фіолетової теми](http://i.imgur.com/WlowfJP.png)
